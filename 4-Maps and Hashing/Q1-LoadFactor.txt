@@ -1,0 +1,10 @@
+One of your cowerkers comes to you with a hash function that divides a group of values by 100, and uses the remainder as a key. The values are 100 numbers that
+are all multiples of 5.
+What is the load factor?
+
+SOLUTION: 125
+
+
+He thiks it's a little slow -wha number would you recommend his function to divide by rather than 100 to speed it up?
+
+SOLUTION: 107

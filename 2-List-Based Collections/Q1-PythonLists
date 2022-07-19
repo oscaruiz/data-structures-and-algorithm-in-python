@@ -1,0 +1,5 @@
+What is the runtime of finding the length of a Python list?
+Solution: O(1)
+
+Why is that the runtime?
+Because after all is an array. With a normal list, you might need to traverse through every element to find the length, but Python does some work behind the scenes to get you the list length in constant time!

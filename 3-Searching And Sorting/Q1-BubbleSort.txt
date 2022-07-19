@@ -1,0 +1,8 @@
+If you were to perform a buble sort of the following array, what would the third iteration look like (i.e. after bubbling all the way up 3 times)?
+[21, 4, 1, 3, 9, 20, 25, 6, 21, 14] (Original Array)
+[4, 1, 3, 9, 20, 21, 6, 21, 14, 25] (1)
+[1, 3, 4, 9, 20, 6, 21, 14, 21, 25] (2)
+[1, 3, 4, 9, 6, 20, 14, 21, 21, 25] (3)
+[1, 3, 4, 6, 9, 14, 20, 21, 21, 25] (4)
+
+Answer is number 3.

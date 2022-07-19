@@ -1,0 +1,19 @@
+Tree Traversal
+--------------     
+     (A)
+    /   \
+ (B)    (C)       
+ | \
+(D) (E)
+       \
+        (F)
+---------------
+Tree Traversal Practice
+Write out the order nodes would be visited in a post-order traversal. Use the format
+
+X, Y, Z
+
+when inputting your response.
+
+SOLUTION:
+D,F,E,B,C,A
